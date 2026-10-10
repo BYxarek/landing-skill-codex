@@ -90,4 +90,9 @@ git clone https://github.com/Magerko/landing-skill ~/.claude/skills/landing
 SKILL.md              порядок работы, семь шагов
 references/tells.md   чеклист признаков шаблонного лендинга
 examples/             скриншоты для сравнения
+LICENSE               лицензия MIT
 ```
+
+## Лицензия
+
+MIT. Пользуйтесь, меняйте и распространяйте свободно.
